@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @interstellic
 - 👀 I’m interested in space, computers, math and philosophy
-- 🌱 I’m currently learning the basic of computer science
+- 🌱 I’m currently learning the basics of computer science
 
 <!---
 interstellic/interstellic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
